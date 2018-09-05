@@ -33,6 +33,7 @@
      
      /* Other ICO parameters */  
         MIN_CONTRIBUTION = $280 USD i.e 1 ether 
+	
     
 
 
