@@ -16,7 +16,7 @@
 			<p class="graf graf--p graf-after--h3" id="c123" name="c123" style="margin: 8px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
 				Send your ETH to the below address.  </p>
 			<p class="graf graf--p graf-after--p" id="00a9" name="00a9" style="margin: 29px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
-				<span class="markup--strong markup--p-strong" style="font-weight: 700;"><b>0x699bf8f99c8048ad798cfb0bc0e2e6916aeeb914</b></span></p>
+				<span class="markup--strong markup--p-strong" style="font-weight: 700;"><b>0x589e52874F6b841a5585fa0BfC81e18a43b2EC05</b></span></p>
 			<p class="graf graf--p graf-after--p" id="d8c6" name="d8c6" style="margin: 29px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
 				Please note the below important points before you proceed further:</p>
 			<ul class="postList" style="margin: 29px 0px 0px; padding: 0px; list-style: none none; counter-reset: post 0;">
@@ -78,11 +78,11 @@
 			<p class="graf graf--p graf-after--figure" id="315d" name="315d" style="margin: 38px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
 				Enter YIITUS&rsquo;s smart contract address&nbsp;</p>
 			<h1 class="pull-left" style="box-sizing: border-box; margin: 8px 0px 10px; font-size: 20px; font-family: &quot;open sans&quot;, Arial, sans-serif; font-weight: 400; line-height: 35px; color: rgb(119, 119, 119); text-shadow: none; float: left; border-radius: 0px !important;">
-				<span class="lead-modify hidden-su-custom" id="address" style="box-sizing: border-box; margin-bottom: 20px; font-size: 16px; line-height: 1.4; color: rgb(153, 153, 153); border-radius: 0px !important;"><span id="mainaddress" style="box-sizing: border-box; border-radius: 0px !important;">0x699BF8F99C8048ad798cfB0BC0e2e6916AeEb914</span></span></h1>
+				<span class="lead-modify hidden-su-custom" id="address" style="box-sizing: border-box; margin-bottom: 20px; font-size: 16px; line-height: 1.4; color: rgb(153, 153, 153); border-radius: 0px !important;"><span id="mainaddress" style="box-sizing: border-box; border-radius: 0px !important;">0x589e52874F6b841a5585fa0BfC81e18a43b2EC05</span></span></h1>
 			<div>
 				&nbsp;</div>
 			<p class="graf graf--p graf-after--p" id="b345" name="b345" style="margin: 29px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
-				Enter how much Ether you want contribute. (1 ETH = 200 YIITUS)</p>
+				Enter how much Ether you want contribute. (1 ETH = 280 YIITUS)</p>
 			<p class="graf graf--p graf-after--p" id="fb7d" name="fb7d" style="margin: 29px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
 				Below is the image to demonstrate how it would look like:</p>
 			<figure class="graf graf--figure graf-after--p" id="6141" name="6141" style="margin: 43px 0px 0px; position: relative; clear: both; outline: 0px; box-sizing: border-box; user-select: auto; z-index: 100;">
@@ -131,7 +131,7 @@
 			<p class="graf graf--p graf-after--p" id="4e66" name="4e66" style="margin: 29px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
 				The transaction ID (Txhash) will look something like this.</p>
 			<p class="graf graf--p graf-after--p" id="526a" name="526a" style="margin: 29px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
-				<span class="markup--strong markup--p-strong" style="font-weight: 700;">0xa08ab4c78c09e4db7271e456270e270be2f941a4a7b14a2a52c2787d4c633b43</span></p>
+				<span class="markup--strong markup--p-strong" style="font-weight: 700;">0x93eeff750edda1203c30356be9cd631cd7dd1949a3d9771a6d925a8c3931d11b</span></p>
 			<p class="graf graf--p graf-after--p" id="8ffb" name="8ffb" style="margin: 29px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
 				<span class="markup--strong markup--p-strong" style="font-weight: 700;"><em class="markup--em markup--p-em" style="font-feature-settings: &quot;liga&quot;, &quot;salt&quot;;">Please note this is a sample Txhash and your actual value will be different and unique for every transaction you make.</em></span></p>
 			<p class="graf graf--p graf-after--p" id="688d" name="688d" style="margin: 29px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
