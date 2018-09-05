@@ -19,7 +19,7 @@
   <p>Contract URL  :<strong> https://ropsten.etherscan.io/token/0x589e52874f6b841a5585fa0bfc81e18a43b2ec05</strong></p>
      
       /* ICO dates */
-      Pre-ICO Phase – Start Date : Sep 17th  2018
+      Pre-ICO Phase – Start Date  : Sep 17th  2018
       Pre-ICO Phase – End Date	 : Sep 30th 2018
       ICO – Start Date	         : Dec 19th 2018
       ICO – End Date	         : Jan 2nd, 2019 
