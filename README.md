@@ -15,7 +15,8 @@
          <p>Issued for PreSale    :<strong> 100 mm</strong></p>
 	 <p>Issued for Public ICO    :<strong> 400 mm</strong></p>
         
-        <p>Contract Address  :<strong> 0x589e52874F6b841a5585fa0BfC81e18a43b2EC05</strong></p>
+ <p>Contract Address  :<strong> 0x589e52874F6b841a5585fa0BfC81e18a43b2EC05</strong></p>
+  <p>Contract URL  :<strong> https://ropsten.etherscan.io/token/0x589e52874f6b841a5585fa0bfc81e18a43b2ec05</strong></p>
      
       /* ICO dates */
       Pre-ICO Phase – Start Date : Sep 17th  2018
