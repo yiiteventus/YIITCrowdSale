@@ -25,15 +25,15 @@
       ICO – End Date	         : Jan 2nd, 2019 
       Soft Cap	                 : 100 million
       Hard Cap	                 : 500 million (100 million for pre-sale and 400 million for STO)
-        /* ICO tokens per USD */
+      
+      /* ICO tokens per USD */
   
       Token Price = 1 YIITUS = $1 USD
-
       BONUS_PRESALE  : 60 %;
       BONUS_ICO      : 30 %;
      
      /* Other ICO parameters */  
-        MIN_CONTRIBUTION = $280 USD i.e 1 ether 
+       MIN_CONTRIBUTION = $280 USD i.e 1 ether 
 	
 	
     
