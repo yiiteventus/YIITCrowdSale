@@ -4,7 +4,7 @@
 <ul>
 <li>YIIT EVENTUS  CrowdSale  ICO </li>
 <li>ver 1.0</li>
-<li>for crowd funding during the pre and LIVE ICO phase</li>
+<li>The PreSale and LIVE ICO phase</li>
 </ul>
 <h3><a id="user-content-how-do-i-get-set-up" class="anchor" href="https://github.com/yiiteventus/YIITCrowdSale#Token Details" aria-hidden="true"></a>Token Details?</h3>
 
