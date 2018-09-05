@@ -1,2 +1,1 @@
-# YIITCrowdSale
-YIITCrowdSale for Events
+
