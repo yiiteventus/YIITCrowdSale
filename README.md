@@ -19,6 +19,7 @@
   <p>Contract URL  :<strong> https://ropsten.etherscan.io/token/0x589e52874f6b841a5585fa0bfc81e18a43b2ec05</strong></p>
      
       /* ICO dates */
+      
       Pre-ICO Phase – Start Date  : Sep 17th  2018
       Pre-ICO Phase – End Date	 : Sep 30th 2018
       ICO – Start Date	         : Dec 19th 2018
@@ -33,6 +34,7 @@
       BONUS_ICO      : 30 %;
      
      /* Other ICO parameters */  
+     
        MIN_CONTRIBUTION = $280 USD i.e 1 ether 
 	
 	
