@@ -29,13 +29,12 @@
       
       /* ICO tokens per USD */
   
-      Token Price = 1 YIITUS = $1 USD
-      BONUS_PRESALE  : 60 %;
-      BONUS_ICO      : 30 %;
+      Token Price = 1 YIITUS = $ 0.70 USD  i.e.   0.0041 ETH
+    
      
      /* Other ICO parameters */  
      
-       MIN_CONTRIBUTION = $280 USD i.e 1 ether 
+       MIN_CONTRIBUTION = $ 0.70 USD  i.e.   0.0041  ether 
        
 	
 	
