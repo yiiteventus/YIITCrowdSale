@@ -25,7 +25,7 @@
 				<li class="graf graf--li graf-after--li" id="a40e" name="a40e" style="margin-left: 30px; margin-bottom: 14px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
 					You will be granted your YIITUS tokens immediately.</li>
 				<li class="graf graf--li graf-after--li" id="4a3c" name="4a3c" style="margin-left: 30px; margin-bottom: 14px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
-					Minimum contribution is $280 USD i.e 1 ETH</li>
+					Minimum contribution is $ 0.70 USD  i.e.  0.0041 ETH</li>
 				<li class="graf graf--li graf-after--li" id="062f" name="062f" style="margin-left: 30px; margin-bottom: 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
 					Any ETH contribution sent after the sale of all tokens will be refunded back to your own wallet automatically.</li>
 			</ul>
