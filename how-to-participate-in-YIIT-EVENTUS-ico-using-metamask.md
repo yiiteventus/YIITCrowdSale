@@ -12,7 +12,7 @@
 			<h3 class="graf graf--h3 graf-after--p" id="883e" name="883e" style="font-family: medium-content-sans-serif-font, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, &quot;Lucida Sans&quot;, Geneva, Arial, sans-serif; letter-spacing: -0.015em; margin: 56px 0px 0px -2.13px; --baseline-multiplier:0.22; font-size: 34px; line-height: 1.15;">
 				If you are participating in YIITUS ICO<span class="markup--strong markup--h3-strong" style="letter-spacing: -0.015em;">.</span></h3>
       	<p class="graf graf--p graf-after--h3" id="c123" name="c123" style="margin: 8px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
-			Token Price = 1 YIITUS = $1 USD </p>
+			Token Price = 1 YIITUS = $ 0.70 USD  i.e.  0.0041 ETH </p>
 			<p class="graf graf--p graf-after--h3" id="c123" name="c123" style="margin: 8px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
 				Send your ETH to the below address.  </p>
 			<p class="graf graf--p graf-after--p" id="00a9" name="00a9" style="margin: 29px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
@@ -21,11 +21,11 @@
 				Please note the below important points before you proceed further:</p>
 			<ul class="postList" style="margin: 29px 0px 0px; padding: 0px; list-style: none none; counter-reset: post 0;">
 				<li class="graf graf--li graf-after--p" id="aa61" name="aa61" style="margin-left: 30px; margin-bottom: 14px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
-					For every ETH you invest, you will receive 280 YIITUS tokens.</li>
+					For every 1 ETH you invest, you will receive 246.3285714285714 YIITUS tokens.</li>
 				<li class="graf graf--li graf-after--li" id="a40e" name="a40e" style="margin-left: 30px; margin-bottom: 14px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
 					You will be granted your YIITUS tokens immediately.</li>
 				<li class="graf graf--li graf-after--li" id="4a3c" name="4a3c" style="margin-left: 30px; margin-bottom: 14px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
-					Minimum contribution is $280 USD i.e 1 ETH</li>
+					Minimum contribution is$ 0.70 USD  i.e.  0.0041 ETH</li>
 				<li class="graf graf--li graf-after--li" id="062f" name="062f" style="margin-left: 30px; margin-bottom: 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
 					Any ETH contribution sent after the sale of all tokens will be refunded back to your own wallet automatically.</li>
 			</ul>
@@ -82,7 +82,7 @@
 			<div>
 				&nbsp;</div>
 			<p class="graf graf--p graf-after--p" id="b345" name="b345" style="margin: 29px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
-				Enter how much Ether you want contribute. (1 ETH = 280 YIITUS)</p>
+				Enter how much Ether you want contribute. (1 ETH = 246.3285714285714 YIITUS)</p>
 			<p class="graf graf--p graf-after--p" id="fb7d" name="fb7d" style="margin: 29px 0px 0px; --baseline-multiplier:0.17; font-family: medium-content-serif-font, Georgia, Cambria, &quot;Times New Roman&quot;, Times, serif; font-size: 21px; line-height: 1.58; letter-spacing: -0.003em;">
 				Below is the image to demonstrate how it would look like:</p>
 			<figure class="graf graf--figure graf-after--p" id="6141" name="6141" style="margin: 43px 0px 0px; position: relative; clear: both; outline: 0px; box-sizing: border-box; user-select: auto; z-index: 100;">
